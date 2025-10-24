@@ -25,10 +25,3 @@ You can navigate to the different pages using the sidebar on the left.
 
 This project is part of CS 1301's Lab 2.
 """)
-
-# OPTIONAL: ADD AN IMAGE
-# 1. Navigate to the 'images' folder in your Lab02 directory.
-# 2. Place your image file (e.g., 'welcome_image.png') inside that folder.
-# 3. Uncomment the line below and change the filename to match yours.
-#
-# st.image("images/welcome_image.png")
